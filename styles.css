@@ -1,2 +1,13 @@
+table,td,th{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
 
-/* Your CSS Code here. */
+#i070{
+    background-color: black;
+    color: white;
+}
+
+
