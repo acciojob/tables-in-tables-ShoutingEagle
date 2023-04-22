@@ -6,8 +6,11 @@ table,td,th{
 }
 
 #i070{
-    background-color: black;
+    background-color:rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), alpha);
     color: white;
 }
+
+
+
 
 
